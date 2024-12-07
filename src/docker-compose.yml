@@ -12,5 +12,5 @@ services:
       - /usr/src:/config
       - /usr/src:/downloads
     ports:
-      - 14322:14322
+      - 9117:9117
     restart: unless-stopped
